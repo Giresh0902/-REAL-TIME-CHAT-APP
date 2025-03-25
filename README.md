@@ -1,3 +1,14 @@
+## Internship Details
+
+**Company**: CodTech IT Solutions  
+**Name**: Giresh Immidisetty  
+**ID**: CT04WD22  
+**Domain**: MERN Stack Web Development  
+**Duration**: 4 Weeks  
+**Mentor**: Neela Santosh  
+
+---
+
 # Real-Time Chat Application
 
 ## Overview
@@ -5,7 +16,6 @@ This is a real-time chat application built using Socket.IO, Node.js, Express, an
 
 ## Features
 - Real-time messaging using WebSockets
-- Multiple chat rooms support
 - Online user status
 - Responsive UI with React
 - Typing indicators (optional)
